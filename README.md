@@ -1,7 +1,6 @@
 # LearnJavaBasicsIn50Days
 <br>
 <br>
-<br>
 this project serves to document my
 course improving my skills
 java basics for 50 days and more than 50 committees
