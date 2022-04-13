@@ -95,6 +95,7 @@ public class IntroducaoTecnologiaDeObjetos {
         como veremos, é crucial à boa engenharia de software.
          */
 
+
         System.out.println("  1.5.8 Herança ");
         /*
         Uma nova classe de objetos pode ser criada convenientemente por meio de herança — ela (chamada subclasse) começa com
@@ -103,6 +104,7 @@ public class IntroducaoTecnologiaDeObjetos {
         Na nossa analogia do carro, um objeto da classe “conversível” decerto é um objeto da classe mais geral “automóvel”, mas, especificamente,
                 o teto pode ser levantado ou baixado.
          */
+
 
         System.out.println("1.5.9 Interfaces ");
         /*
@@ -148,5 +150,6 @@ public class IntroducaoTecnologiaDeObjetos {
         sobre engenharia e software da ATM referente aos capítulos 33 e 34 (Sala Virtual, em inglês), apresentaremos um subconjunto
         simples dos recursos do UML à medida que o orientamos por uma experiência de projeto orientado a objetos.
          */
+
     }
 }
