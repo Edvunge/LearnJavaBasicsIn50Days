@@ -2,10 +2,9 @@ package day03;
 
 public class IntroducaoTecnologiaDeObjetos {
     public static void main(String[] args) {
+
+        System.out.println("Introdução à tecnologia de objetos ");
         /*
-        Introdução à tecnologia de objetos
-
-
         Hoje, como a demanda por software novo e mais poderoso está aumentando, construir softwares de maneira rápida, correta e
         econômica continua a ser um objetivo indefinido. Objetos ou, mais precisamente, as classes de onde os objetos vêm são essencialmente
         componentes reutilizáveis de software. Há objetos data, objetos data/hora, objetos áudio, objetos vídeo, objetos automóvel, objetos
@@ -17,11 +16,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
-
-
+        System.out.println("1.5.1 O automóvel como um objeto ");
         /*
-1.5.1 O automóvel como um objeto
         Para ajudar a entender objetos e seus conteúdos, vamos começar com uma analogia simples. Suponha que você queira guiar
         um carro e fazê-lo andar mais rápido pisando no pedal acelerador. O que deve acontecer antes que você possa fazer isso? Bem,
                 antes de poder dirigir um carro, alguém tem de projetá-lo. Um carro tipicamente começa como desenhos de engenharia, semelhantes
@@ -36,9 +32,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println("1.5.2 Métodos e classes ");
         /*
-1.5.2 Métodos e classes
         Vamos usar nosso exemplo do carro para introduzir alguns conceitos fundamentais da programação orientada a objetos. Para
         realizar uma tarefa em um programa é necessário um método. O método armazena as declarações do programa que, na verdade,
                 executam as tarefas; além disso, ele oculta essas declarações do usuário, assim como o pedal do acelerador de um carro oculta do
@@ -50,18 +45,16 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println("1.5.3 Instanciação ");
         /*
-1.5.3 Instanciação
         Assim como alguém tem de fabricar um carro a partir dos desenhos de engenharia antes que possa realmente dirigi-lo, você
         deve construir um objeto de uma classe antes que um programa possa executar as tarefas que os métodos da classe definem. O
         processo para fazer isso é chamado instanciação. Um objeto é então referido como uma instância da sua classe.
          */
 
 
-
+        System.out.println("   1.5.4 Reutilização ");
         /*
-   1.5.4 Reutilização
         Assim como os desenhos de engenharia de um carro podem ser reutilizados várias vezes para fabricar muitos carros, você pode
         reutilizar uma classe muitas vezes para construir vários objetos. A reutilização de classes existentes ao construir novas classes e programas
         economiza tempo e esforço. Também ajuda a construir sistemas mais confiáveis e eficientes, porque classes e componentes
@@ -71,9 +64,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println(" 1.5.5 Mensagens e chamadas de método ");
         /*
-1.5.5 Mensagens e chamadas de método
         Ao dirigir um carro, o ato de pressionar o acelerador envia uma mensagem para o veículo realizar uma tarefa — isto é, ir mais
         rápido. Da mesma forma, você envia mensagens para um objeto. Cada mensagem é implementada como uma chamada de método
         que informa a um método do objeto a maneira de realizar sua tarefa. Por exemplo, um programa pode chamar o método depósito
@@ -81,9 +73,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println("1.5.6 Atributos e variáveis de instância ");
         /*
-1.5.6 Atributos e variáveis de instância
         Um carro, além de ter a capacidade de realizar tarefas, também tem atributos, como cor, número de portas, quantidade de gasolina
         no tanque, velocidade atual e registro das milhas totais dirigidas (isto é, a leitura do odômetro). Assim como suas capacidades, os
         atributos do carro são representados como parte do seu projeto nos diagramas de engenharia (que, por exemplo, incluem um odômetro
@@ -96,32 +87,27 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println(" 1.5.7 Encapsulamento e ocultamento de informações ");
         /*
- 1.5.7 Encapsulamento e ocultamento de informações
         Classes (e seus objetos) encapsulam, isto é, contêm seus atributos e métodos. Os atributos e métodos de uma classe (e de seu
                 objeto) estão intimamente relacionados. Os objetos podem se comunicar entre si, mas eles em geral não sabem como outros objetos
         são implementados — os detalhes de implementação permanecem ocultos dentro dos próprios objetos. Esse ocultamento de informações,
         como veremos, é crucial à boa engenharia de software.
          */
 
-
-
+        System.out.println("  1.5.8 Herança ");
         /*
-   1.5.8 Herança
         Uma nova classe de objetos pode ser criada convenientemente por meio de herança — ela (chamada subclasse) começa com
         as características de uma classe existente (chamada superclasse), possivelmente personalizando-as e adicionando aspectos próprios.
-        10 Java: como programar
+
         Na nossa analogia do carro, um objeto da classe “conversível” decerto é um objeto da classe mais geral “automóvel”, mas, especificamente,
                 o teto pode ser levantado ou baixado.
          */
 
-
-
+        System.out.println("1.5.9 Interfaces ");
         /*
-1.5.9 Interfaces
         O Java também suporta interfaces — coleções de métodos relacionados que normalmente permitem informar aos objetos o que
-        fazer, mas não como fazer (veremos uma exceção a isso no Java SE 8). Na analogia do carro, uma interface das capacidades “básicas
+        fazer, mas não como fazer. Na analogia do carro, uma interface das capacidades “básicas
         de dirigir” consistindo em um volante, um pedal de acelerador e um pedal de freio permitiria que um motorista informasse ao carro
         o que fazer. Depois que você sabe como usar essa interface para virar, acelerar e frear, você pode dirigir muitos tipos de carro, embora
                 os fabricantes possam implementar esses sistemas de forma diferente.
@@ -135,9 +121,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println("1.5.10 Análise e projeto orientados a objetos (OOAD) ");
         /*
-1.5.10 Análise e projeto orientados a objetos (OOAD)
                 Logo você estará escrevendo programas em Java. Como criará o código (isto é, as instruções do programa) para seus programas?
                 Talvez, como muitos programadores, simplesmente ligará seu computador e começará a digitar. Essa abordagem pode funcionar
         para pequenos programas (como os apresentados nos primeiros capítulos deste livro), mas e se você fosse contratado para criar um
@@ -154,9 +139,8 @@ public class IntroducaoTecnologiaDeObjetos {
          */
 
 
-
+        System.out.println("1.5.11 A UML (unified modeling language) ");
         /*
-        1.5.11 A UML (unified modeling language)
         Embora existam muitos processos OOAD diferentes, uma única linguagem gráfica para comunicar os resultados de qualquer
         processo desse tipo veio a ser amplamente utilizada. A unified modeling language (UML) é agora o esquema gráfico mais utilizado
         para modelagem de sistemas orientados a objetos. Apresentaremos nossos primeiros diagramas UML nos capítulos 3 e 4, então os
@@ -164,7 +148,5 @@ public class IntroducaoTecnologiaDeObjetos {
         sobre engenharia e software da ATM referente aos capítulos 33 e 34 (Sala Virtual, em inglês), apresentaremos um subconjunto
         simples dos recursos do UML à medida que o orientamos por uma experiência de projeto orientado a objetos.
          */
-
-
     }
 }
