@@ -6,10 +6,37 @@ public class Variables {
      System.out.println("Variáveis em Java");
 
 /*
-        A variável em Java é um contêiner de dados que salva os valores dos dados durante a execução do programa Java.
-        Cada variável recebe um tipo de dados que designa o tipo e a quantidade de valor que ela pode conter.
-        Variável é um nome de local de memória dos dados.
+                    O que é uma Variável?
 
+                Em computação uma variável representa umendereço da memóriaRAM.Nela somos capazes de
+            armazenar informações de vários tipos: numéricos, strings (texto), booleanos (verdadeiro ou falso),
+            objetos e etc.
+
+            Quando declaramos uma variável estamos atribuindo um nome simbólico à um endereço da
+            memória RAM. Dentro de nosso programa utilizaremos esse nome para manipular a informação
+            contida no endereço da memória relacionado à variável.
+*/
+
+
+
+        System.out.println("Pare para pensar...");
+
+        /*
+
+            O que aconteceria se o compilador do Java ou C# nos permitisse não inicializar uma variável?
+        Um programador C (não C#), responderia essa questão facilmente, pois em C é possível compilar um
+        código sem inicializar uma variável antes de utilizá-la e, entre os iniciantes nessa linguagem, é um “erro”
+        bem comum. Quando declaramos uma variável, estamos reservando umespaço numa determinada posição
+        da memória do computador. Esse espaço poderia ter sido utilizado por outro programa anteriormente
+        e poderia conter dados não mais utilizados. Se não inicializarmos a variável que está nessa posição
+        acabaríamos lendo dados ou trechos de dados que não conhecemos, não sabemos o tipo, ou seja, essa
+        informação seria uma “sujeira” que estava na memória. Se fôssemos capazes de tentar utilizar essa informação
+        aleatória em Java ou C#, o nosso programa poderia ter umcomportamento imprevisível.
+        */
+
+
+
+/*
         Uma variável é um nome dado a um local de memória. É a unidade básica de armazenamento em um programa.
 
                 O valor armazenado em uma variável pode ser alterado durante a execução do programa.
