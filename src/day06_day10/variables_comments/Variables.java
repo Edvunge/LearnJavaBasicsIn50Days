@@ -1,4 +1,4 @@
-package day06.variables_comments;
+package day06_day10.variables_comments;
 
 public class Variables {
     public static void main(String[] args) {
@@ -16,9 +16,7 @@ public class Variables {
                 Uma variável é apenas um nome dado a um local de memória, todas as operações feitas na variável afetam esse local de memória.
         Em Java, todas as variáveis devem ser declaradas antes do uso.
                 Como declarar variáveis?
-        Podemos declarar variáveis em java conforme ilustrado abaixo como um auxílio visual.
-
-                A partir da imagem, pode-se perceber facilmente que ao declarar uma variável, precisamos cuidar de duas coisas que são:
+         Ao declarar uma variável, precisamos cuidar de duas coisas que são:
 
         1. Datatype : Tipo de dado que pode ser armazenado nesta variável.
 
@@ -32,7 +30,7 @@ public class Variables {
                 Pode ser percebido com a ajuda de 3 componentes que são os seguintes:
 
         data type : Tipo de dado que pode ser armazenado nesta variável.
-                nome_variável : Nome dado à variável.
+        nome_variável : Nome dado à variável.
         value: É o valor inicial armazenado na variável.
 
 

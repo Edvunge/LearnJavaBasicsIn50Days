@@ -1,4 +1,4 @@
-package day06.variables_comments;
+package day06_day10.variables_comments;
 
 public class Comments {
     public static void main(String[] args) {

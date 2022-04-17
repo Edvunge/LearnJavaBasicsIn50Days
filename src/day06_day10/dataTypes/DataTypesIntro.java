@@ -1,4 +1,4 @@
-package day06.dataTypes;
+package day06_day10.dataTypes;
 
 public class DataTypesIntro {
     public static void main(String[] args) {
