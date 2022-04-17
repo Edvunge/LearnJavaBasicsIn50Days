@@ -82,7 +82,6 @@ _myVar
 $myVar
 minhaVar1
 minhaVar_1
-
-         */
+ */
     }
 }
