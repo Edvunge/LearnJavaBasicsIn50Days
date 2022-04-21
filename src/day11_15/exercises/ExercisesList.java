@@ -5,44 +5,6 @@ public class ExercisesList {
 
     B. EXERCÍCIOS DE LÓGICA
 
-11. Faça um algoritmo que:
-a) Obtenha o valor para a variável HT (horas trabalhadas no mês);
-b) Obtenha o valor para a variável VH (valor hora trabalhada):
-c) Obtenha o valor para a variável PD (percentual de desconto);
-d) Calcule o salário bruto => SB = HT * VH;
-e) Calcule o total de desconto => TD = (PD/100)*SB;
-f) Calcule o salário líquido => SL = SB – TD;
-g) Apresente os valores de: Horas trabalhadas, Salário Bruto, Desconto, Salário
-Liquido.
-
-
-12. Faça um algoritmo que leia uma temperatura em graus Celsius e apresente-a
-convertida em graus Fahrenheit. A fórmula de conversão é: F = (9 * C + 160) / 5,
-na qual F é a temperatura em Fahrenheit e C é a temperatura em Celsius;
-
-
-13. Faça um algoritmo que leia uma temperatura em Fahrenheit e a apresente
-convertida em graus Celsius. A fórmula de conversão é C = (F – 32) * ( 5 / 9), na
-qual F é a temperatura em Fahrenheit e C é a temperatura em Celcius.
-
-
-14. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de
-óleo, utilizando a fórmula VOLUME = 3,14159 * RAIO2 * ALTURA.
-CADERNO DE EXERCÍCIOS
-ALGORITMOS
-
-
-15. Faça um algoritmo que calcule a quantidade de litros de combustível gasta em
-uma viagem, utilizando um automóvel que faz 12Km por litro. Para obter o
-cálculo, o usuário deve fornecer o tempo gasto na viagem e a velocidade média
-durante ela. Desta forma, será possível obter a distância percorrida com a
-fórmula DISTANCIA = TEMPO * VELOCIDADE. Tendo o valor da distância,
-basta calcular a quantidade de litros de combustível utilizada na viagem com a
-fórmula: LITROS_USADOS = DISTANCIA / 12. O programa deve apresentar os
-valores da velocidade média, tempo gasto na viagem, a distância percorrida e a
-quantidade de litros utilizada na viagem.
-
-
 16. Faça um algoritmo que leia dois valores para as variáveis A e B e efetue a troca
 dos valores de forma que a variável A passe a possuir o valor da variável B e a
 variável B passe a possuir o valor da variável A. Apresente os valores trocados.

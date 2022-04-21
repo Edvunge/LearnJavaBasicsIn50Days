@@ -17,7 +17,6 @@ public class Ex03 {
 
         final float PI = 3.14159F;
 
-
         System.out.println("indique o valor da base:? ");
         double base = entrada.nextDouble();
 

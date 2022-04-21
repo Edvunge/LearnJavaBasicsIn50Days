@@ -3,7 +3,7 @@ package day11_15.exercises;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex05 {
+public class Ex05 {
     public static void main(String[] args) {
         /*
         10. Faça um algoritmo que:
