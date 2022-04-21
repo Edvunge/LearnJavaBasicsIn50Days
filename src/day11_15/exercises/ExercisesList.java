@@ -5,32 +5,6 @@ public class ExercisesList {
 
     B. EXERCÍCIOS DE LÓGICA
 
-
-7. Faça um algoritmo para calcular a área de uma circunferência, considerando a
-fórmula ÁREA = π * RAIO2. Utilize as variáveis AREA e RAIO, a constante π (pi =
-3,14159) e os operadores aritméticos de multiplicação.
-
-
-8. Faça um algoritmo que calcule a área de um triângulo, considerando a fórmula
-Á􀜴􀜧􀜣 􀵌 􀮻􀮺􀯌􀮾 .􀮺􀯅􀯍􀯎􀯋􀮺
-􀬶 . Utilize as variáveis AREA, BASE e ALTURA e os
-operadores aritméticos de multiplicação e divisão.
-
-
-9. Faça um algoritmo que:
-a) Leia o nome;
-b) Leia o sobrenome;
-c) Concatene o nome com o sobrenome;
-d) Apresente o nome completo.
-
-
-10. Faça um algoritmo que:
-a) Leia um número inteiro;
-b) Leia um segundo número inteiro;
-c) Efetue a adição dos dois valores;
-d) Apresente o valor calculado.
-
-
 11. Faça um algoritmo que:
 a) Obtenha o valor para a variável HT (horas trabalhadas no mês);
 b) Obtenha o valor para a variável VH (valor hora trabalhada):
