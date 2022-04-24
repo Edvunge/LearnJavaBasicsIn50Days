@@ -5,11 +5,6 @@ public class ExercisesList {
 
     B. EXERCÍCIOS DE LÓGICA
 
-16. Faça um algoritmo que leia dois valores para as variáveis A e B e efetue a troca
-dos valores de forma que a variável A passe a possuir o valor da variável B e a
-variável B passe a possuir o valor da variável A. Apresente os valores trocados.
-
-
 17. Faça um algoritmo que leia quatro números e apresente os resultados de adição
 e multiplicação dos valores entre si, baseando-se na utilização da propriedade
 distributiva, ou seja, se forem lidas as variáveis A, B, C e D, devem ser somadas
