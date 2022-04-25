@@ -5,11 +5,6 @@ public class ExercisesList {
 
     B. EXERCÍCIOS DE LÓGICA
 
-17. Faça um algoritmo que leia quatro números e apresente os resultados de adição
-e multiplicação dos valores entre si, baseando-se na utilização da propriedade
-distributiva, ou seja, se forem lidas as variáveis A, B, C e D, devem ser somadas
-e multiplicadas A com B, A com C e A com D; B com C, B com D e por último C
-com D.
 
 
 18. Faça um algoritmo que leia os valores de COMPRIMENTO, LARGURA e
