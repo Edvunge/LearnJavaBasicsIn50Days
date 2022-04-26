@@ -5,13 +5,6 @@ public class ExercisesList {
 
     B. EXERCÍCIOS DE LÓGICA
 
-26. Considere a seguinte situação: descontam-se inicialmente 10% do salário bruto
-do trabalhador como contribuição à previdência social. Após esse desconto, há
-um outro desconto de 5% sobre o valor restante do salário bruto, a título de um
-determinado imposto. Faça um algoritmo que leia o salário bruto de um cidadão e
-imprima o seu salário líquido.
-DICA: Para a solução dos exercícios abaixo utilize os operadores de divisão inteira e
-de módulo.
 
 
 27. Leia um código de cinco algarismos (variável Codigo) e gere o digito verificador
