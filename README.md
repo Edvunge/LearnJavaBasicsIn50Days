@@ -8,19 +8,19 @@ per day, just basic java, below is the
 full schedule.
 <br>
 
-Day( 1-5 )  ->   frist code / main method
+Day( 1-5 )  ->   frist code, main method
 <br>
-Day( 6-10 )  ->  print text / data types / comments
+Day( 6-10 )  ->  print text, data types, comments
 <br>
 Day( 11-15 )  -> operators ( arithmatic, relational, math, random, logical)
 <br>
-Day( 16-20 )  -> for loop, while loop
+Day( 16-20 )  -> for loop, while loop, do while, for each
 <br>
-Day( 21-25 )  -> if and if else
+Day( 21-25 )  -> ( if , if-else, break, continue, jump )
 <br>
-Day( 26-30 )  -> arrays
+Day( 26-30 )  -> (switch , return keyword)
 <br>
-Day( 31-35 )  -> switch
+Day( 31-35 )  -> arrays
 <br>
 Day( 36-40 )  -> file methods
 <br>
