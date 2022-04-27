@@ -13,9 +13,9 @@ Day( 1-5 )  ->   frist code, main method
 Day( 6-10 )  ->  print text, data types, comments
 <br>
 Day( 11-15 )  -> operators ( arithmatic, relational, math, random, logical)
+<br>for loop, while loop, do while, for each
 <br>
-Day( 16-20 )  -> for loop, while loop, do while, for each
-<br>
+Day( 16-20 )  ->
 Day( 21-25 )  -> ( if , if-else, break, continue, jump )
 <br>
 Day( 26-30 )  -> (switch , return keyword)
