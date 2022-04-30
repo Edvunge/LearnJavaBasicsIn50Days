@@ -1,4 +1,4 @@
-package day21_25.if_IfElse;
+package day21_25.break_continue_jump;
 
 public class Break {
     public static void main(String[] args) {
