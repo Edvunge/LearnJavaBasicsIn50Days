@@ -12,23 +12,6 @@ public class ExercicicioGeral {
         /*
         C. EXERCÍCIOS ESTRUTURA SE...ENTAO
 
-36. Uma empresa de vendas tem três corretores. A empresa paga ao corretor uma
-comissão calculada de acordo com o valor de suas vendas. Se o valor da venda
-de um corretor for maior que R$ 50.000.00 a comissão será de 12% do valor
-vendido. Se o valor da venda do corretor estiver entre R$ 30.000.00 e R$
-50.000.00 (incluindo extremos) a comissão será de 9.5%. Em qualquer outro
-caso, a comissão será de 7%. Escreva um algoritmo que gere um relatório
-contendo nome, valor da venda e comissão de cada um dos corretores. O
-relatório deve mostrar também o total de vendas da empresa.
-
-37. Escreva um algoritmo que determine o número de dias que uma pessoa já viveu.
-Considere que um mês tenha 30 dias.
-
-38. Faça um algoritmo que leia os valores A, B e C. Mostre uma mensagem que
-informe se a soma de A com B é menor, maior ou igual a C.
-CADERNO DE EXERCÍCIOS
-ALGORITMOS
-
 39. Suponha que um caixa disponha apenas de notas de 1, 10 e 100 reais.
 Considerando que alguém está pagando uma compra, escreva um algoritmo que
 mostre o número mínimo de notas que o caixa deve fornecer como troco. Mostre
@@ -51,19 +34,7 @@ salário total de um vendedor.
 nome, preço e percentual de desconto. Faça um algoritmo que imprima nome,
 preço e preço com desconto de cada artigo e o total a pagar.
 
-43. Uma empresa irá dar um aumento de salário aos seus funcionários de acordo
-com a categoria de cada empregado. O aumento seguirá a seguinte regra:
-• Funcionários das categorias A, C, F, e H ganharão 10% de aumento sobre o
-salário;
-• Funcionários das categorias B, D, E, I, J e T ganharão 15% de aumento sobre
-o salário;
-• Funcionários das categorias K e R ganharão 25% de aumento sobre o salário;
-• Funcionários das categorias L, M, N, O, P, Q e S ganharão 35% de aumento
-sobre o salário;
-• Funcionários das categorias U, V, X, Y, W e Z ganharão 50% de aumento
-sobre o salário.
-Faça um algoritmo que escreva nome, categoria e salário reajustado de cada
-empregado.
+
 
 44. Uma sorveteria vende três tipos de picolés. Sabendo-se que o picolé do tipo 1 é
 vendido por R$ 0.50, o do tipo 2 por R$ 0.60 e o do tipo 3 por R$ 0.75, faça um
