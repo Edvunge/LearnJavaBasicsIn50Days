@@ -5,37 +5,35 @@ import java.util.Scanner;
 public class Ex06 {
     public static void main(String[] args) {
         /*
-        43. Uma empresa irá dar um aumento de salário aos seus funcionários de acordo
-        com a categoria de cada empregado. O aumento seguirá a seguinte regra:
-
-        • Funcionários das categorias A, C, F, e H ganharão 10% de aumento sobre o
-            salário;
-
-        • Funcionários das categorias B, D, E, I, J e T ganharão 15% de aumento sobre
-            o salário;
-
-        • Funcionários das categorias K e R ganharão 25% de aumento sobre o salário;
-
-        • Funcionários das categorias L, M, N, O, P, Q e S ganharão 35% de aumento
-            sobre o salário;
-
-        • Funcionários das categorias U, V, X, Y, W e Z ganharão 50% de aumento
-            sobre o salário.
-
-        Faça um algoritmo que escreva nome, categoria e salário reajustado de cada
-        empregado.
+        46. Um hotel cobra R$ 60.00 a diária e mais uma taxa de serviços. A taxa de
+            serviços é de:
+        • R$ 5.50 por diária, se o número de diárias for maior que 15;
+        • R$ 6.00 por diária, se o número de diárias for menor que 15.
+        Construa um algoritmo que mostre o nome e o total da conta de um cliente.
         */
 
         Scanner input = new Scanner(System.in);
+        double diariaHotel = 60.00;
 
-        System.out.println("indique o seu nome:?");
-        String nomeFuncionario = input.next();
+        System.out.println("qual e o seu nome?");
+        String nomeCliente = input.next();
 
-        int A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, W, Y, X, Z;
+        System.out.println("qual o numero de dias pretende ficar em nosso hotel?");
+        int numeroDiaria = input.nextInt();
 
+        double valorTotalDiaria = numeroDiaria * diariaHotel;
 
+        double valorFinalComTaxaServiço1 = valorTotalDiaria + 5.50;
+        double valorFinalComTaxaServiço2 = valorTotalDiaria + 6.00;
+
+        if ( numeroDiaria > 15 ) {
+            System.out.println("o seu nome: " + nomeCliente);
+            System.out.println(" o valor final da sua conta e de: " + valorFinalComTaxaServiço1);
+        } else if ( numeroDiaria < 15 ) {
+            System.out.println("o seu nome: " + nomeCliente);
+            System.out.println(" o valor final da sua conta e de: " + valorFinalComTaxaServiço2);
+        }
 
         input.close();
-
     }
 }
