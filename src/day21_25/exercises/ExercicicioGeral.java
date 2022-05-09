@@ -15,11 +15,6 @@ public class ExercicicioGeral {
 
 Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
-Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
-A mensagem "Reprovado", se a média for menor do que sete;
-A mensagem "Aprovado com Distinção", se a média for igual a dez.
-
 Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 
 Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar.
