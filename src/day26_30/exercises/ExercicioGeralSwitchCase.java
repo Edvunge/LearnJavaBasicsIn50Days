@@ -5,25 +5,6 @@ public class ExercicioGeralSwitchCase {
         /*
         D. EXERCÍCIOS ESTRUTURA ESCOLHA...CASO
 
-
-
-80. Construa um algoritmo que leia um número inteiro de 1 a 7 e informe o dia da
-semana correspondente, sendo domingo o dia de número 1. Se o número não
-corresponder a um dia da semana, mostre uma mensagem de erro.
-
-81. Crie um algoritmo para ler uma letra do alfabeto e mostrar uma mensagem: se é
-vogal ou consoante.
-
-82. Construa um algoritmo que, tendo como dados de entrada o preço de um
-produto e um código de origem, mostre o preço junto de sua procedência (ex.
-500,00 – Sul). Caso o código não seja nenhum dos especificados, o produto
-deve ser encarado como importado.
-Código de origem
-1 – Sul 5 ou 6 – Nordeste
-2 – Norte 7 ou 8 ou 9 – Sudeste
-3 – Leste 10 até 20 – Centro Oeste
-4 – Oeste 25 até 35 – Nordeste
-
 83. Crie um algoritmo para uma calculadora utilizando a instrução escolha-caso para
 determinar a operação que deve ser executada, conforme o usuário escolher no
 menu de opções. Conforme a opção escolhida pelo usuário, uma operação
